@@ -25,6 +25,6 @@ export class CatsService {
 @Injectable()
 export class FaultCatsAllService {
   faultFindAll(): string {
-    return 'invalid routing';
+    return 'invalid routing!!';
   }
 }
